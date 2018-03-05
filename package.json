@@ -1,0 +1,27 @@
+{
+  "name": "friendFinder",
+  "version": "1.0.0",
+  "description": "Friend Finder Homework for Coding Bootcamp at GA Tech",
+  "main": "app/app.js",
+  "engines": {
+    "node": "6.11.4"
+  },
+  "scripts": {
+    "start": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentletom/friendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentletom/friendFinder/issues"
+  },
+  "homepage": "https://github.com/gentletom/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
